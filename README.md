@@ -5,14 +5,6 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3FBF&width=435&lines=Desenvolvedor+Java;JavaScript+%7C+HTML+%7C+CSS;Banco+de+Dados+SQL;Git+%7C+GitHub)
 </div>
 
-###
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Citações inspiradoras"/>
-</div>
-
-###
-
 <h2 align="center"> 📊 Estatísticas </h2>
 
 <div align="center">
@@ -21,7 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gahthemer&show_icons=true&theme=dracula&hide=issues&hide_border=true" height="165em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahthemer&layout=compact&theme=dracula&hide_border=true&exclude_repo=outro-repositorio" height="165em"/>
   
-  ![Pacman Contribution](https://raw.githubusercontent.com/gahthemer/gahthemer/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ###
@@ -38,16 +29,6 @@
   <h3>Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas"/>
 </div>
-
-###
-
-<h2 align="center"> 🎵 Tocando agora </h2>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=SEU_ID_SPOTIFY&cover_image=true&theme=novatorem&bar_color=7f3fbf&bar_color_cover=true" alt="Spotify Now Playing"/>
-</div>
-
-###
 
 <h2 align="center"> 📱 Contato </h2>
 
